@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "83375803378",
+    "firebase_url": "https://devconemergencyapp.firebaseio.com",
+    "project_id": "devconemergencyapp",
+    "storage_bucket": "devconemergencyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83375803378:android:fb51ae9e6354a74c",
+        "android_client_info": {
+          "package_name": "com.example.ashi.devconcomplaintview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83375803378-cbk0mng2cfprf467ikpkvn9ruttq5ciq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashi.devconcomplaintview",
+            "certificate_hash": "79654533a99b737281b1854f3a99be5df81672a5"
+          }
+        },
+        {
+          "client_id": "83375803378-0tcdj613etm1r4su9cp5tg602vatpfa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu0Yls2S9wgMbJMlQPWvn5Pjw56MzFNgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83375803378-0tcdj613etm1r4su9cp5tg602vatpfa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83375803378:android:d8f5ffd21bb0b348",
+        "android_client_info": {
+          "package_name": "com.example.ashi.devconemergencyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83375803378-icmuv737cfqn659jhmtpec651nk966nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashi.devconemergencyapp",
+            "certificate_hash": "9779c06716e7b8210e6bbef0d34c795f3130acef"
+          }
+        },
+        {
+          "client_id": "83375803378-movfga5jc9833fqgujnc6nb6ndmpepl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashi.devconemergencyapp",
+            "certificate_hash": "79654533a99b737281b1854f3a99be5df81672a5"
+          }
+        },
+        {
+          "client_id": "83375803378-0tcdj613etm1r4su9cp5tg602vatpfa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu0Yls2S9wgMbJMlQPWvn5Pjw56MzFNgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83375803378-0tcdj613etm1r4su9cp5tg602vatpfa2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
